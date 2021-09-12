@@ -1,0 +1,2 @@
+# MynewRepo
+New repository created
